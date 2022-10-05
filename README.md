@@ -4,7 +4,7 @@
 <h3 align="center">Passionate about the web, I started a professional retraining by following a Junior web developer training at Becode.
 Organized and dynamic, I also have a seriousness and rigor that have always helped me adapt with a lot of versatility.</h3>
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://rodriguesluisportfolio.herokuapp.com/](https://rodriguesluisportfolio.herokuapp.com/)
 
