@@ -6,8 +6,6 @@ Organized and dynamic, I also have a seriousness and rigor that have always help
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://rodriguesluisportfolio.herokuapp.com/](https://rodriguesluisportfolio.herokuapp.com/)
-
 - 📫 How to reach me **rodriguesdasilvaluis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
