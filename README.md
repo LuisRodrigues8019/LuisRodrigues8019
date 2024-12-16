@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigues da Silva Luis</h1>
-<h3 align="center">A passionate Junior Web Developer from Belgium</h3>
+<h3 align="center">Multimedia trainer passionate about the web</h3>
 
-<h3 align="center">Passionate about the web, I started a professional retraining by following a Junior web developer training at Becode.
-Organized and dynamic, I also have a seriousness and rigor that have always helped me adapt with a lot of versatility.</h3>
+<h3 align="center">After a successful professional retraining in web development at Becode, I now dedicate myself to IT and multimedia training. Organized, dynamic and rigorous, I share my knowledge to support other people in their mastery of digital tools. My adaptability and versatility are essential assets to guide and inspire learners towards success.</h3>
 
 
 
