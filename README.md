@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigues da Silva Luis</h1>
 <h3 align="center">IT Student passionate about Web Development</h3>
 
-<h3 align="center">fter a successful professional retraining in web development at BeCode and two years working as an IT and multimedia trainer, I am currently pursuing a Bachelor's degree in IT. Organized, dynamic, and rigorous, I combine technical skills with strong adaptability and team spirit to tackle new challenges in web development.</h3>
+<h3 align="center">After a successful professional retraining in web development at BeCode and two years working as an IT and multimedia trainer, I am currently pursuing a Bachelor's degree in IT. Organized, dynamic, and rigorous, I combine technical skills with strong adaptability and team spirit to tackle new challenges in web development.</h3>
 
 
 
