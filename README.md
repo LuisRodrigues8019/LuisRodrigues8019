@@ -1,20 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rodrigues da Silva Luis</h1>
+<h1 align="center">Hi 👋, I'm Luis Rodrigues da Silva</h1>
 <h3 align="center">IT Student passionate about Web Development</h3>
 
-<h3 align="center">After a successful professional retraining in web development at BeCode and two years working as an IT and multimedia trainer, I am currently pursuing a Bachelor's degree in IT. Organized, dynamic, and rigorous, I combine technical skills with strong adaptability and team spirit to tackle new challenges in web development.</h3>
-
-
+<p align="center">After a successful professional retraining in web development at BeCode and two years working as an IT and multimedia trainer, I am currently pursuing a Bachelor's degree in IT. Organized, dynamic, and rigorous, I combine technical skills with strong adaptability and team spirit to tackle new challenges in web development.</p>
 
 - 📫 How to reach me **rodriguesdasilvaluis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-rodrigues-da-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-rodrigues-da-silva/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-rodrigues-da-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Luis Rodrigues da Silva" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Front</h3>
-
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
@@ -33,4 +29,6 @@
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 
+<h3 align="left">🚀 Featured Project</h3>
 
+- **[Quizz DigComp (Fobagra)](quizz_digcomp)** - Conception and development of an interactive web application to evaluate learners' digital skills based on the European DigComp framework.
