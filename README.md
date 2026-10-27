@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/luis-rodrigues-da-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Luis Rodrigues da Silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-rodrigues-da-silva/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Luis Rodrigues da Silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Front</h3>
@@ -31,4 +31,7 @@
 
 <h3 align="left">🚀 Featured Project</h3>
 
-- **[Quizz DigComp (Fobagra)](quizz_digcomp)** - Conception and development of an interactive web application to evaluate learners' digital skills based on the European DigComp framework.
+<p align="left">
+  • <b>Quizz DigComp (Fobagra)</b> - Conception and development of an interactive web application to evaluate learners' digital skills based on the European DigComp framework.<br>
+  👉 <a href="https://luisrodrigues8019.github.io/quizz_digcomp/" target="_blank"><b>Live Website (Demo)</b></a> | <a href="https://github.com/LuisRodrigues8019/quizz_digcomp" target="_blank"><b>Source Code (GitHub)</b></a>
+</p>
